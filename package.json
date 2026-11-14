@@ -1,0 +1,14 @@
+{
+  "name": "lab2-grades-analysis",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Лабораторная работа 2 — Анализ успеваемости",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
